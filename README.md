@@ -1,7 +1,7 @@
 # Hi there 👋,
 My name is Osmar Reis, but you can call me Oz, I'm a student in Analysis and Systems Development and my desire is to become a freelancer and independent game developer. Passionate about technology, I'm exploring this huge universe.
 
-- 🔭 I’m currently working on MyHappy(by NLW3).
+- 🔭 I’m currently working on an AP Calculator in JS.
 - 🌱 I’m currently learning HTML5, CSS & JS.
 - ⚡ My hobbies include(but not only) playing games, music and reading.
 
