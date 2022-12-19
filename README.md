@@ -1,7 +1,7 @@
 # Hi there 👋,
-My name is Osmar Reis, but you can call me Oz, I'm a student in Analysis and Systems Development and my desire is to become a freelancer and independent game developer. Passionate about technology, I'm exploring this huge universe.
+My name is Osmar Reis, but you can call me Oz, I,m a FrontEnd Developer, Passionate about technology, I'm exploring this huge universe.
 
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning NodeJS and React Native.
 - ⚡ My hobbies include(but not only) playing games, music and reading.
 
   ![OsmarReis's github stats](https://github-readme-stats.vercel.app/api?username=OsmarReis&show_icons=true&theme=dracula)
